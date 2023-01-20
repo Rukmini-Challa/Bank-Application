@@ -32,7 +32,7 @@ import java.util.Scanner;
 
                 //interest
                 System.out.println("Interest on amount for 10 years of "+user.getBalance()+"Rs will be: "+user.calculateInterest(10));
-
+                System.out.println("Made a change");
             }
         }
 
